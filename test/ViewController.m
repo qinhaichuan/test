@@ -18,6 +18,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     // 这是一个测试程序
+    
+    
+    
+    
     // version - 1
 }
 
